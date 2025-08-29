@@ -16,7 +16,7 @@ de acompañamiento.
 **MANEJO INADECUADO DE LA ECONOMIA FAMILIAR**
 
 DIAGRAMA EN CODIGO MERMAID
-
+´´´mermaid
 graph TD 
 
  
