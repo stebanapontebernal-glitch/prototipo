@@ -75,7 +75,8 @@ graph TD
 
     D1 --> E3[ESTRÉS Y ANSIEDAD FINANCIERA] 
 
-    D1 --> E4[PÉRDIDA DE PATRIMONIO] 
+    D1 --> E4[PÉRDIDA DE PATRIMONIO]
+```
 
 **TITULO PROMT (Arbol De Soluciones)**
 
